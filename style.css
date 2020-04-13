@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+}
+section{
+    height: 500px;
+    padding-bottom: 80px;
+}
+.top-banner{
+    background-image: url("images/Personal/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.biography{
+    background-image: url("images/Personal/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.my-latest-work{
+    background-image: url("images/Personal/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.what-clint-are-say{
+    background-image: url("images/Personal/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.half-width{
+    width: 30%;
+    float: left;
+    margin-left: 10%;
+    margin-top: 5%;
+    padding-left: 2px;
+}
+.half-width img{
+    width: 100%;
+    margin-left: 10%;
+}
+.name-color{
+    color: brown;
+}
+
+.text-center{
+    text-align: center;
+}
+.threework{
+    float: left;
+    width: 20%;
+    margin: 5%;
+}
+.my-latest-work img{
+    width: 100%;
+}
+
+.box{
+    height: 150px;
+    width: 600px;
+    border: 2px solid black;
+    background-image: linear-gradient(45deg, lightsalmon,tomato);
+    margin-left: 25%;
+    padding: 2%;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+.button-link{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: blue;
+    background-image: linear-gradient(45deg, lightsalmon,tomato);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
